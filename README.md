@@ -8,4 +8,5 @@
 [Ejercicios basicos Python](https://github.com/JoseEduardoNavarreteRosales-1851701/001-MineriadeDatos/blob/main/Ej_Python_1851701.ipynb)  
 * [Imagen Ejercicio 5](https://github.com/JoseEduardoNavarreteRosales-1851701/001-MineriadeDatos/blob/main/Captura%20de%20pantalla%20calculadora%20basica.png)  
   
-[Ej_Limpieza_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo5.ipynb)
+[Ej_Limpieza_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo5.ipynb)  
+[Avance1_PIA_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance1_PIA_Equipo5.ipynb)  
