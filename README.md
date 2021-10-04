@@ -15,4 +15,5 @@
 [Presentación_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Presentacion_%7BArboles%20de%20decision%7D_%7B5%7D.pdf)  
 [Ej_ArbolDecision_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ej_ArbolDecision_Equipo5.ipynb)  
 [Preguntas_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Preguntas%20equipo%205.pdf)  
+[Visualización_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Visualizacion_Equipo5.ipynb)  
 [Avance2_PIA_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Avance2_PIA_001_Equipo5.ipynb)  
