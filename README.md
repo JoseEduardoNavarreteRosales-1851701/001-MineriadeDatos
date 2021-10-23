@@ -22,3 +22,5 @@
 ## Fase 3  
 [Ejercicio_Tecnicas_mineria](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Ejercicio_de_t%C3%A9cnicas_de_m%C3%ADneria.ipynb)  
 [Notebook_Final_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Notebook_Final.ipynb)  
+[Poster_Equipo5](https://github.com/HectorCedilloCharles1/MineriaDeDatos/blob/main/Poster_Equipo_5.pdf)  
+
